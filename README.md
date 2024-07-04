@@ -24,6 +24,7 @@
 * install the python libs as mentioned in prerequisites.
 * Run the main.py
 * Select the option and play the game.
+  
 ![image](https://github.com/juhisreepothu/CODSOFT_RockPaperScissors/assets/174590970/a4172741-51b8-4fcc-b3bd-71634f7f2d3d)
 ![image](https://github.com/juhisreepothu/CODSOFT_RockPaperScissors/assets/174590970/1ec5de60-3c34-4fa2-9a8a-36d3c3a1a894)
 ![image](https://github.com/juhisreepothu/CODSOFT_RockPaperScissors/assets/174590970/d127a4d3-4476-4020-aa22-01e4d700d535)
